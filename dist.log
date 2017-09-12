@@ -1,0 +1,9 @@
+running bdist
+running bdist_dumb
+running build
+running build_py
+UPDATING build/lib.macosx-10.13-x86_64-3.6-pydebug/cvxopt/_version.py
+set build/lib.macosx-10.13-x86_64-3.6-pydebug/cvxopt/_version.py to '1.1.9+10.g009817d'
+running build_ext
+building 'umfpack' extension
+mpicc -DDYNAMIC_ANNOTATIONS_ENABLED=1 -g -Ofast -Wall -Wstrict-prototypes -fomit-frame-pointer -funroll-loops -ffast-math -Ofast -fno-signed-zeros -ffp-contract=fast -mmmx -msse -flto -maes -march=native -I/usr/local/opt/bison/include -I/usr/local/opt/gettext/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openblas/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/sqlite/include -I/usr/local/opt/readline/include -I/usr/local/opt/lapack/include -I/usr/local/opt/open-mpi/include -I/usr/local/opt/binutils/include -I/usr/local/opt/boost/include -I/usr/local/opt/llvm/include -I$/opt/X11/include -I/usr/local/cuda/include -I/usr/local/cuda/nvvm/include -march=native -I/usr/local/include -I/usr/local/Cellar/python3/3.6.2_1/Frameworks/Python.framework/Versions/3.6/include/python3.6dm -c src/C/umfpack.c -o build/temp.macosx-10.13-x86_64-3.6-pydebug/src/C/umfpack.o

@@ -1,0 +1,3 @@
+[submodule "SuiteSparse_mac"]
+path=SuiteSparse_mac
+url = https://github.com/ralic/SuiteSparse_mac
